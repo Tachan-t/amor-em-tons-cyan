@@ -70,7 +70,7 @@ const Index = () => {
           </h2>
           <Heart className="w-8 h-8 text-[#00FFFF] animate-pulse" />
         </div>
-        <p className="text-gray-400 text-lg">Celebrando cada momento juntos</p>
+        <p className="text-gray-400 text-lg">Celebrando cada momento juntas</p>
       </header>
 
       {/* Main Content */}
